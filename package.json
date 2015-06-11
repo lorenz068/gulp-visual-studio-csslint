@@ -1,0 +1,27 @@
+{
+  "name": "gulp-visual-studio-csslint",
+  "version": "1.0.0",
+  "description": "CSSlint Visual Studio reporter",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lorenz068/gulp-visual-studio-csslint.git"
+  },
+  "keywords": [
+    "visual",
+    "studio",
+    "csslint",
+    "reporter",
+    "gulp",
+    "gulpplugin"
+  ],
+  "author": "Laurent Bonnot <laurent.bonnot@gmail.com> (https://twitter.com/lorenz068)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lorenz068/gulp-visual-studio-csslint/issues"
+  },
+  "homepage": "https://github.com/lorenz068/gulp-visual-studio-csslint",
+  "devDependencies": {
+    "gulp-csslint": "0.1.5"
+  }
+}
