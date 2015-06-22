@@ -11,9 +11,10 @@
     "visual",
     "studio",
     "csslint",
+    "css",
     "reporter",
     "gulp",
-    "gulpplugin"
+    "plugin"
   ],
   "author": "Laurent Bonnot <laurent.bonnot@gmail.com> (https://twitter.com/lorenz068)",
   "license": "MIT",
